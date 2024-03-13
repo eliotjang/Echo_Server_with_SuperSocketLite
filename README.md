@@ -1,7 +1,8 @@
 ## SuperSocketLite 라이브러리 사용 고성능 네트워크 서버 제작
 
-SuperSocketLite: C#으로 개발된 네트워크 통신을 구현하는 오픈 소스 라이브러리
-에코 서버: SuperSocketLite를 사용하여 소켓 통신을 구현
+### 기술 스택 및 학습내용
+- SuperSocketLite: C#으로 개발된 네트워크 통신을 구현하는 오픈 소스 라이브러리
+- 에코 서버: SuperSocketLite를 사용하여 소켓 통신을 구현
 
 ### 주요 특징
 - 다양한 프로토콜 지원
