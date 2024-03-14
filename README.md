@@ -12,8 +12,11 @@
   - C# 언어로 작성된 SuperSocketLite는 성능 면에서도 효율적으로 동작, 대용량 데이터 처리 및 고성능 네트워크 응용 프로그램에 적합
 - 유연한 확장성
   - 확장성을 고려하여 설계되어 있어서 필요에 따라 커스텀 기능 추가 및 확장 용이
-- 문서화 및 커뮤니티
-  - 문서화가 잘 되어 있고, 사용자들 간의 질문과 답변을 교환할 수 있는 활성화된 커뮤니티. 이는 사용자들이 라이브러리를 쉽게 이해하고 사용할 수 있도록 도움
+
+### 주요 소스코드 구현
+- [MainServer.cs](EchoServer/MainServer.cs)
+- [ReceiveFilter.cs](EchoServer/ReceiveFilter.cs)
+- [Program.cs](EchoServer/Program.cs)
  
 ### 참고 자료
 - [SuperSocketLite 오픈 소스 라이브러리](https://github.com/jacking75/SuperSocketLite)
