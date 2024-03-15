@@ -1,4 +1,4 @@
-## SuperSocketLite 라이브러리 사용 고성능 네트워크 서버 제작
+## SuperSocketLite 라이브러리 사용 에코 서버 실습
 
 ### 기술 스택 및 학습내용
 - C#으로 개발된 네트워크 통신을 구현하는 오픈 소스 라이브러리인 SuperSocketLite를 사용하여 소켓 통신 구현
